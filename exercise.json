@@ -113,8 +113,8 @@
             {
                 "video_id": "0018",
                 "url": "https://www.youtube.com/watch?v=p5nqLknx37Q",
-                "frame_start": 167,
-                "frame_end": 202
+                "frame_start": 175,
+                "frame_end": 196
             },
             {
                 "video_id": "0019",
@@ -125,8 +125,8 @@
             {
                 "video_id": "0020",
                 "url": "https://www.youtube.com/watch?v=gKyCtTb_Y3E",
-                "frame_start": 125,
-                "frame_end": 160
+                "frame_start": 130,
+                "frame_end": 153
             },
             {
                 "video_id": "0021",
@@ -138,13 +138,13 @@
                 "video_id": "0022",
                 "url": "https://www.youtube.com/watch?v=UUHRFId5-CM",
                 "frame_start": 60,
-                "frame_end": 96
+                "frame_end": 92
             },
             {
                 "video_id": "0023",
                 "url": "https://www.youtube.com/watch?v=UUHRFId5-CM",
                 "frame_start": 120,
-                "frame_end": 156
+                "frame_end": 150
             },
             {
                 "video_id": "0024",
@@ -156,7 +156,7 @@
                 "video_id": "0025",
                 "url": "https://www.youtube.com/watch?v=UUHRFId5-CM",
                 "frame_start": 240,
-                "frame_end": -1
+                "frame_end": 256
             },
             {
                 "video_id": "0026",
@@ -174,19 +174,19 @@
                 "video_id": "0028",
                 "url": "https://www.youtube.com/watch?v=gG2Z1siSvkk",
                 "frame_start": 95,
-                "frame_end": 120
+                "frame_end": 117
             },
             {
                 "video_id": "0029",
                 "url": "https://www.youtube.com/watch?v=gG2Z1siSvkk",
-                "frame_start": 167,
-                "frame_end": 209
+                "frame_start": 180,
+                "frame_end": 200
             },
             {
                 "video_id": "0030",
                 "url": "https://www.youtube.com/watch?v=gG2Z1siSvkk",
                 "frame_start": 239,
-                "frame_end": -1
+                "frame_end": 249
             }
         ] 
     },
@@ -196,8 +196,8 @@
             {
                 "video_id": "0031",
                 "url": "https://www.youtube.com/watch?v=mGvzVjuY8SY",
-                "frame_start": 780,
-                "frame_end": 900
+                "frame_start": 804,
+                "frame_end": 914
             },
             {
                 "video_id": "0032",
@@ -250,7 +250,7 @@
             {
                 "video_id": "0040",
                 "url": "https://www.youtube.com/watch?v=Zqc_lc93hak",
-                "frame_start": 71,
+                "frame_start": 83,
                 "frame_end": 120
             },
             {
@@ -262,7 +262,7 @@
             {
                 "video_id": "0042",
                 "url": "https://www.youtube.com/watch?v=Zqc_lc93hak",
-                "frame_start": 239,
+                "frame_start": 249,
                 "frame_end": 298
             },
             {
@@ -346,7 +346,7 @@
             {
                 "video_id": "0056",
                 "url": "https://www.youtube.com/watch?v=RSq6zuAEIzs",
-                "frame_start": 383,
+                "frame_start": 391,
                 "frame_end": 432
             },
             {
@@ -370,17 +370,11 @@
             {
                 "video_id": "0060",
                 "url": "https://www.youtube.com/watch?v=RSq6zuAEIzs",
-                "frame_start": 2158,
-                "frame_end": 2187
-            },
-            {
-                "video_id": "0061",
-                "url": "https://www.youtube.com/watch?v=RSq6zuAEIzs",
                 "frame_start": 3525,
                 "frame_end": 3607
             },
             {
-                "video_id": "0062",
+                "video_id": "0061",
                 "url": "https://www.youtube.com/watch?v=jjVpDI6x_ec",
                 "frame_start": 660,
                 "frame_end": 725
